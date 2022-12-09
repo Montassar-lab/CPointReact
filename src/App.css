@@ -1,0 +1,15 @@
+img{
+  width: 100px;
+  text-align: center;
+}
+
+body{
+  /* text-align: center; */
+  background-color: rgb(174, 219, 219);
+  position: relative;
+  left: 45%;
+  right: 45%;
+  top: 100px;
+  bottom: 50%; 
+
+}
